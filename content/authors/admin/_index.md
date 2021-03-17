@@ -14,13 +14,13 @@ organizations:
   url: https://www.economics.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include X, Y, and Z.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Interest 1
+- Interest 2
+- Interest 3
 
 # Education to show in About widget
 education:
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Petr is a macroeconomist with a particular interest in the vast heterogeneity among workers and firms. He is fascinated by the question of how worker and firm heterogeneity interacts and how it shapes, and is shaped by, the aggregate economy. His research combines empirical analysis of micro-level and aggregate data for macroeconomic questions and theoretical and quantitative models with heterogeneous agents.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cvsedlacek.pdf" "newtab" >}}CV{{< /staticref >}}.
