@@ -2,15 +2,14 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 95
 
-title: Recent Publications
+title: Work in Progress
 subtitle: ''
 
 content:
@@ -25,10 +24,10 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: ''
+    category: 'Work in Progress'
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -37,7 +36,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
