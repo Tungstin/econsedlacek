@@ -1,60 +1,48 @@
 ---
-title: "Stable Genius? The Macroeconomic Impact of Trump"
+title: "Match Efficiency and Firms' Hiring Standards"
+draft: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Benjamin Born
-- Gernot J. Müller
-- Moritz Schularick
 - admin
 
-# Author notes (optional)
-author_notes:
-- ''
-- ''
-- ''
-- ''
+#author_notes: # Author notes (optional)
+#- ''
 
-date: "2020-04-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2014-03-01T00:00:00Z" #website date, not publicatino date
+date: "2014-03-01T00:00:00Z"
+#doi: "10.1016/j.jmoneco.2013.10.001"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
+publication: In *Journal of Monetary Economics*
 publication_short:
 
-abstract: How much credit does Donald Trump deserve for the macroeconomic performance of the US economy? Growth and job creation have been robust during the first 2.5 years since he took office, but this does not prove that Trump made a difference. In this note we develop a counterfactual scenario for how the US economy would have evolved without Trump---we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the post-election performance of the US economy to this synthetic "doppelganger". For now there is little evidence for a Trump effect.
+abstract: During the last recession, new hires were lower than what would be predicted by a standard matching function and the observed ratio of searching workers and firms. This paper first estimates U.S. match efficiency as an exogenous residual in the matching function using a simple search and matching model. It finds match efficiency to be pro-cyclical and to account for about 1/4 of unemployment increases during the most severe recessions. Second, this paper proposes a model with endogenous separations and firing costs that endogenizes match efficiency, which is driven by firms’ hiring standards. The model can explain almost 1/2 of the variation in the initial estimate of match efficiency.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
- - Working Paper
- - CEPR
- - VoxEU
-categories: Working Papers
+ - Article
+categories: Journal Articles
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: VoxEU column
-   url: https://voxeu.org/article/stable-genius-estimating-trump-effect-us-economy
- - name: CEPR Discussion Paper 13798
-   url: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13798
-
-#add a PDF file with the same name as your publication folder to the publication folder and a PDF link will be automatically generated
+ - name: Article
+   url: http://dx.doi.org/10.1016/j.jmoneco.2013.10.001
+ - name: Appendix
+   url: files/publications/MeffAppendix.pdf
 
 url_pdf: ''
 url_code: ''

@@ -1,60 +1,50 @@
 ---
-title: "Stable Genius? The Macroeconomic Impact of Trump"
+title: "Lost Generations of Firms and Aggregate Labor Market Dynamics"
+draft: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Benjamin Born
-- Gernot J. Müller
-- Moritz Schularick
 - admin
+
 
 # Author notes (optional)
 author_notes:
 - ''
-- ''
-- ''
-- ''
 
-date: "2020-04-01T00:00:00Z"
-doi: ""
+date: "2020-05-01T00:00:00Z"
+#doi: "10.1016/j.jmoneco.2019.01.007"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-01T00:00:00Z"
+publishDate: "2020-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted
+publication: In *Journal of Monetary Economics*
 publication_short:
 
-abstract: How much credit does Donald Trump deserve for the macroeconomic performance of the US economy? Growth and job creation have been robust during the first 2.5 years since he took office, but this does not prove that Trump made a difference. In this note we develop a counterfactual scenario for how the US economy would have evolved without Trump---we let a matching algorithm determine which combination of other economies best resembles the pre-election path of the US economy. We then compare the post-election performance of the US economy to this synthetic "doppelganger". For now there is little evidence for a Trump effect.
+abstract: Can the unprecedented lack of startups during the U.S. Great Recession have persistently negative effects? While fewer firms hiring workers can mechanically reduce employment for many years, this may be offset by feedback effects on lower wages, slacker labor markets and higher profits. An estimated model of firm dynamics and frictional labor markets suggests that such feedback effects are too weak to offset the direct impact of fewer startups. Had firm entry remained constantduring the Great Recession, output would have recovered 4–6 years earlier and unemployment would have been 0.5 percentage points lower even 10 years after the crisis.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
- - Working Paper
- - CEPR
- - VoxEU
-categories: Working Papers
+ - Article
+categories: Journal Articles
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: VoxEU column
-   url: https://voxeu.org/article/stable-genius-estimating-trump-effect-us-economy
- - name: CEPR Discussion Paper 13798
-   url: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=13798
-
-#add a PDF file with the same name as your publication folder to the publication folder and a PDF link will be automatically generated
+ - name: Article
+   url: https://www.sciencedirect.com/science/article/abs/pii/S0304393219300078?via%3Dihub
 
 url_pdf: ''
 url_code: ''

@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 92
+weight: 91
 
-title: Publications in Refereed Journals
+title: Working Papers
 subtitle: ''
 
 content:
@@ -24,7 +24,7 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: 'Refereed Publications'
+    category: 'Working Papers'
     publication_type: ''
     author: ''
     exclude_featured: false
