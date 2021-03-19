@@ -25,15 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Martian Intelligence
+    institution: Western Antarctic State University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,4 +66,4 @@ highlight_name: false
 
 Petr is a macroeconomist with a particular interest in the vast heterogeneity among workers and firms. He is fascinated by the question of how worker and firm heterogeneity interacts and how it shapes, and is shaped by, the aggregate economy. His research combines empirical analysis of micro-level and aggregate data for macroeconomic questions and theoretical and quantitative models with heterogeneous agents.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cvsedlacek.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Petr's {{< staticref "media/cvsedlacek.pdf" "newtab" >}}CV{{< /staticref >}}.
