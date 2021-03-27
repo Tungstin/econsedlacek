@@ -61,7 +61,7 @@ I wasn't born an economist...
 &nbsp;
 
 ...but I could never do this  
-<iframe height="186" src="https://www.youtube.com/embed/XMrPjl-927Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="186" src="https://www.youtube.com/embed/XMrPjl-927Q" title="I could never do this" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
 &nbsp;
