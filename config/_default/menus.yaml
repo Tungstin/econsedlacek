@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#home'
+    url: '#_home'
     weight: 100
   - name: Vita
     url: '#about'

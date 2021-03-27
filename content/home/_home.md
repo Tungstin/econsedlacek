@@ -6,7 +6,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "<br><br>News"
 subtitle = ""
@@ -29,14 +29,14 @@ subtitle = ""
   #gradient_end = "ForestGreen"
 
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "oxford.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,6 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
+# &nbsp;
 
 ![New](img/new_sign.png)   Call for papers for new conference on [Firm Heterogeneity and the Macroeconomy](firmmacro/)  
 
@@ -58,4 +59,11 @@ subtitle = ""
 ![New](img/new_sign.png)   Based on my research with [Vincent Sterk](http://www.homepages.ucl.ac.uk/~uctpvst/), we have developed an Online Calculator for the European Commission. You can access the Calculator for 23 European economies [here](https://ec.europa.eu/jrc/en/covid-19-start-up-calculator)  
 [\[Press release\]](https://ec.europa.eu/jrc/en/news/supporting-new-eu-businesses-could-protect-over-35m-jobs-coming-decade-jrc-analysis-shows)
 
-{{< figure src="/img/Ox1.jpg" >}}
+# &nbsp;
+
+![Oxford Economics](img/econoxlogo.png)
+
+
+# &nbsp;
+# &nbsp;
+# &nbsp;

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Research"
+title = "<br><br>Research"
 subtitle = ""
 
 [design]
@@ -49,10 +49,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#
 
+# &nbsp;
+
+
+{{< figure src="img/Homer.jpg" >}}
 {{% callout note %}}
+
 Find relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-{{< figure src="img/Homer.jpg" >}}
+# &nbsp;
