@@ -45,7 +45,7 @@ subtitle = ""
  ###### TO USE IMAGES BELOW #######
  # ![Bart](img/Bart.jpg)
  #        or
- # {{< figure library="true" src="img/Bart.jpg" >}}
+ # {{< figure src="img/Bart.jpg" width="100" >}}
  # images in static/img/...
  ##################################
 
@@ -68,22 +68,19 @@ My first boss...
 &nbsp;
 
 My new research assistant...
-
-[![photo](img/assistant_small.png)](img/assistant.jpg)
+{{< figure src="img/assistant.jpg" width="150" >}}
 
 &nbsp;
 &nbsp;
 
 ...and with one year of experience
-
-[![photo](img/assitant1Y_small.jpg)](img/assitant1Y.jpg)
+{{< figure src="img/assitant1Y.jpg" width="150" >}}
 
 &nbsp;
 &nbsp;
 
 ...and my second assistant
-
-[![photo](img/assistant2_small.jpg)](img/assistant22.jpg)
+{{< figure src="img/assistant22.jpg" width="200" >}}
 
 &nbsp;
 &nbsp;

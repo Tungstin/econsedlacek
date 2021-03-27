@@ -55,22 +55,23 @@ subtitle = ""
 
 I wasn't born an economist...
 
-[![photo](img/sparta_small.png)](img/sparta.png)
+{{< figure src="img/sparta.png" width="300" >}}
 
 &nbsp;
 &nbsp;
 
 ...but I could never do this  
+
 <iframe height="186" src="https://www.youtube.com/embed/XMrPjl-927Q" title="I could never do this" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
 &nbsp;
 
 I used to have this...
-[![photo](img/boat_small.png)](img/boat.png)
+{{< figure src="img/boat.png" width="150" >}}
 
 &nbsp;
 &nbsp;
 
 ...but then something happened
-[![photo](img/seskok_small.png)](img/seskok.png)
+{{< figure src="img/seskok.png" width="250" >}}

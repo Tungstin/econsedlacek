@@ -1,14 +1,14 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# A section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/content/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
-title = "Research"
+title = "<br><br>News"
 subtitle = ""
 
 [design]
@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "navy"
+  # color = "navy"
 
   # Background gradient.
-  gradient_start = "navy"
-  gradient_end = "lightblue"
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,10 +49,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#
 
-{{% callout note %}}
-Find relevant content by [filtering publications](./publication/).
-{{% /callout %}}
 
-{{< figure src="img/Homer.jpg" >}}
+![New](img/new_sign.png)   Call for papers for new conference on [Firm Heterogeneity and the Macroeconomy](Main/FirmMacro.html)  
+
+![New](img/new_sign.png)   My [mum](./Photos/Mama.jpg) (maiden name Simanova) together with a somewhat famous tennis player  
+
+![New](img/new_sign.png)   Based on my research with [Vincent Sterk](http://www.homepages.ucl.ac.uk/~uctpvst/), we have developed an Online Calculator for the European Commission. You can access the Calculator for 23 European economies [here](https://ec.europa.eu/jrc/en/covid-19-start-up-calculator)  
+[\[Press release\]](https://ec.europa.eu/jrc/en/news/supporting-new-eu-businesses-could-protect-over-35m-jobs-coming-decade-jrc-analysis-shows)
+
+{{< figure src="/img/Ox1.jpg" >}}
