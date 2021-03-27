@@ -6,14 +6,14 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 900  # Order that this section will appear.
 
-title = "Research"
+title = "<br><br>My Family"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "navy"
+  # color = "navy"
 
   # Background gradient.
-  gradient_start = "lightblue"
-  gradient_end = "navy"
+  #gradient_start = "Red"
+  #gradient_end = "DarkRed"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,8 +49,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-#
 
-{{% callout note %}}
-Find relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+### [Mum](img/Jana.jpg)
+
+
+Tennis world number 1 (no pressure!), and known to other famous tennis players under her [maiden name (Simanova)](img/Mama.jpg)  
+
+### [Dad](https://sites.google.com/site/ekonomiesedlacek)
+
+
+That's where I got my interest in economics from  
+
+### [Brother](https://www.chambersandpartners.com/Europe/person/419950/tomas-sedlacek)
+
+
+Corporate lawyer in best Czech law firm

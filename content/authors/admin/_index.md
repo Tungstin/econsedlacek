@@ -18,16 +18,27 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Interest 1
-- Interest 2
-- Interest 3
+- Macroeconomics
+- Labour markets
+- Firm heterogeneity
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Martian Intelligence
-    institution: Western Antarctic State University
-    year: 2012
+  - course: PhD in Economics
+    institution: University of Amsterdam
+    year: 2011
+  - course: MPhil in Econometrics and Macroeconomics
+    institution: Tinbergen Institute
+    year: 2008
+  - course: MA in Economics
+    institution: Joint European Studies Program
+    year: 2005
+  - course: Ing (MSc equivalent) in Economic Policy and Macroeconomic Analysis
+    institution: University of Economics, Prague
+    year: 2006
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,16 +50,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/sedlacekpe
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/petr-sedlacek-95b11215
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=ezJ1vjUAAAAJ
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,

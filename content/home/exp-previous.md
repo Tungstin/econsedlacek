@@ -2,15 +2,15 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 43
 
-title: Experience
+title: Previous Positions
 subtitle:
 
 # Date format for experience
@@ -23,32 +23,6 @@ date_format: "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professor of Economics
-    company: University of Oxford and Christ Church
-    company_url: ''
-    location:
-    date_start: '2019-01-01'
-    date_end: ''
-    description:
-
-  - title: Editorial Board Member
-    company: Oxford Economic Papers
-    company_url: ''
-    location:
-    date_start: '2017-01-01'
-    date_end: ''
-    description:
-
-  - title: Research Affiliate
-    company: Center for Economic Policy Research
-    company_url: ''
-    location:
-    date_start: '2015-01-01'
-    date_end: ''
-    description:
-
-##PAST
-
   - title: Associate Professor
     company: University of Oxford
     company_url: ''

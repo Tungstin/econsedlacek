@@ -6,14 +6,14 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 902  # Order that this section will appear.
 
-title = "Research"
+title = "<br><br>My former life"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,21 +22,14 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "navy"
+  # color = "navy"
 
   # Background gradient.
-  gradient_start = "lightblue"
-  gradient_end = "navy"
-
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  #text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -48,9 +41,36 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
-+++
-#
 
-{{% callout note %}}
-Find relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+ ###### TO USE IMAGES BELOW #######
+ # ![Bart](img/Bart.jpg)
+ #        or
+ # {{< figure library="true" src="img/Bart.jpg" >}}
+ # images in static/img/...
+ ##################################
+
++++
+
+&nbsp;
+
+I wasn't born an economist...
+
+[![photo](img/sparta_small.png)](img/sparta.png)
+
+&nbsp;
+&nbsp;
+
+...but I could never do this  
+<iframe height="186" src="https://www.youtube.com/embed/XMrPjl-927Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
+&nbsp;
+
+I used to have this...
+[![photo](img/boat_small.png)](img/boat.png)
+
+&nbsp;
+&nbsp;
+
+...but then something happened
+[![photo](img/seskok_small.png)](img/seskok.png)
