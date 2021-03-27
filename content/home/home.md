@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 
-![New](img/new_sign.png)   Call for papers for new conference on [Firm Heterogeneity and the Macroeconomy](Main/FirmMacro.html)  
+![New](img/new_sign.png)   Call for papers for new conference on [Firm Heterogeneity and the Macroeconomy](firmmacro/)  
 
 ![New](img/new_sign.png)   My [mum](./Photos/Mama.jpg) (maiden name Simanova) together with a somewhat famous tennis player  
 
